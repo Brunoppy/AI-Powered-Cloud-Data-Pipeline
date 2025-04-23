@@ -1,5 +1,5 @@
 
--- BigQuery SQL Script to create a sales table and perform aggregation
+-- BigQuery SQL Script to create a sales table and perform aggregation 
 CREATE OR REPLACE TABLE marketplace_dataset.sales (
     order_id STRING,
     product_id STRING,
